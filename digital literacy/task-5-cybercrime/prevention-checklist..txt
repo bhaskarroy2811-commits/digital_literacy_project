@@ -1,0 +1,17 @@
+Stay Safe Online – Prevention Checklist
+
+1. Always use strong and unique passwords for different accounts.
+2. Enable two-factor authentication (2FA) wherever possible.
+3. Never share your OTP, passwords, or personal details with anyone.
+4. Avoid clicking on unknown or suspicious links received via SMS, email, or WhatsApp.
+5. Do not download apps or files from untrusted sources.
+6. Always verify payment requests before approving them on UPI apps.
+7. Never enter your UPI PIN to receive money; it is only required to send money.
+8. Regularly check your bank statements and transaction history.
+9. Be cautious while using public Wi-Fi for financial transactions.
+10. Keep your devices and apps updated to avoid security vulnerabilities.
+
+Reporting:
+If you become a victim of cybercrime, report immediately at:
+National Cyber Crime Portal: https://cybercrime.gov.in
+Helpline Number: 1930
