@@ -19,7 +19,7 @@ I created and updated my profiles on platforms like GitHub, LinkedIn, and Kaggle
 I solved a beginner-level problem on HackerRank to practice coding skills. I also created a Google Form for a Digital Literacy Quiz and linked it with Google Sheets to collect responses.
 
 👉 Google Form Link:  
-[https://forms.gle/T76Z6zopQzZs28pGA]
+[https://forms.gle/VHtzRTokc5bEsWSD9]
 
 ---
 
